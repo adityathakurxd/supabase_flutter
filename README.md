@@ -3,6 +3,11 @@
 
 Working with Supabase in Flutter! 
 
+![YouTube Video Views](https://img.shields.io/youtube/views/fqfHEZvQPlY?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/fqfHEZvQPlY?label=Likes&style=social) <br>
+<img align="left" alt="Aditya Thakur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Using Supabase with Flutter** : https://youtu.be/fqfHEZvQPlY
+<hr>
+
+
 ## What is Supabase?
 
 Supabase is the Open Source Firebase Alternative. 
